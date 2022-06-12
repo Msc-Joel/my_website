@@ -1,6 +1,7 @@
 body {
-    margin: 0;
-    padding: 0;
+    margin: 80;
+    padding: 80;
+    background: linear-gradient(90deg, rgb(253, 238, 211) 0%, rgb(222, 253, 255) 100%);
 }
 #map3 {
     width: 90%;
@@ -40,6 +41,7 @@ h3 {
 p {
     font-family: poppins;
     line-height: 1.75em;
+
 }
 .footer p {
     font-size: small;
